@@ -1,22 +1,22 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="RgxrqijN_WJP3kd05fHb">
-    <mxGraphModel dx="2318" dy="783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="2662" dy="963" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="DbGSmNHzxgO9P4StmdJW-1" parent="1" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" value="可选用点" vertex="1">
           <mxGeometry height="150" width="140" x="145" y="50" as="geometry" />
         </mxCell>
-        <mxCell id="DbGSmNHzxgO9P4StmdJW-2" parent="DbGSmNHzxgO9P4StmdJW-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="1) x1,y1,z1" vertex="1">
+        <mxCell id="DbGSmNHzxgO9P4StmdJW-2" parent="DbGSmNHzxgO9P4StmdJW-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="1) x1,y1,z1,a1" vertex="1">
           <mxGeometry height="30" width="140" y="30" as="geometry" />
         </mxCell>
-        <mxCell id="DbGSmNHzxgO9P4StmdJW-3" parent="DbGSmNHzxgO9P4StmdJW-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="2) x2,y2,z2" vertex="1">
+        <mxCell id="DbGSmNHzxgO9P4StmdJW-3" parent="DbGSmNHzxgO9P4StmdJW-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="2) x2,y2,z2,a2" vertex="1">
           <mxGeometry height="30" width="140" y="60" as="geometry" />
         </mxCell>
         <mxCell id="DbGSmNHzxgO9P4StmdJW-4" parent="DbGSmNHzxgO9P4StmdJW-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="..." vertex="1">
           <mxGeometry height="30" width="140" y="90" as="geometry" />
         </mxCell>
-        <mxCell id="DbGSmNHzxgO9P4StmdJW-5" parent="DbGSmNHzxgO9P4StmdJW-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="n) xn,yn,zn" vertex="1">
+        <mxCell id="DbGSmNHzxgO9P4StmdJW-5" parent="DbGSmNHzxgO9P4StmdJW-1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" value="n) xn,yn,zn,an" vertex="1">
           <mxGeometry height="30" width="140" y="120" as="geometry" />
         </mxCell>
         <mxCell id="DbGSmNHzxgO9P4StmdJW-9" edge="1" parent="1" source="DbGSmNHzxgO9P4StmdJW-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DbGSmNHzxgO9P4StmdJW-7">
@@ -51,7 +51,7 @@
         <mxCell id="DbGSmNHzxgO9P4StmdJW-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="计算适应度" vertex="1">
           <mxGeometry height="40" width="120" x="-100" y="350" as="geometry" />
         </mxCell>
-        <mxCell id="DbGSmNHzxgO9P4StmdJW-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;$$ \left [&amp;nbsp; &amp;nbsp;1 - (\frac{\alpha}{90})^{1/m}&amp;nbsp; &amp;nbsp;\right ]&amp;nbsp;\times p $$&lt;/div&gt;" vertex="1">
+        <mxCell id="DbGSmNHzxgO9P4StmdJW-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="&lt;div&gt;$$ \left [&amp;nbsp; &amp;nbsp;1 - (\frac{\alpha}{90})^{1/m}&amp;nbsp; &amp;nbsp;\right ]&amp;nbsp;\times p^{1/n} $$&lt;/div&gt;" vertex="1">
           <mxGeometry height="50" width="170" x="440" y="345" as="geometry" />
         </mxCell>
         <mxCell id="DbGSmNHzxgO9P4StmdJW-57" edge="1" parent="1" source="DbGSmNHzxgO9P4StmdJW-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="DbGSmNHzxgO9P4StmdJW-16">
