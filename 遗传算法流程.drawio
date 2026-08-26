@@ -1,9 +1,84 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="I4afUWuKz9LL4Y9_2-3l">
-    <mxGraphModel>
+    <mxGraphModel dx="1404" dy="736" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-14" edge="1" parent="1" source="yOhbxG2t1ZKeJkl7-fQG-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yOhbxG2t1ZKeJkl7-fQG-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="开始" vertex="1">
+          <mxGeometry height="30" width="40" x="243" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-15" edge="1" parent="1" source="yOhbxG2t1ZKeJkl7-fQG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yOhbxG2t1ZKeJkl7-fQG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="创建初始种群" vertex="1">
+          <mxGeometry height="30" width="90" x="218" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-16" edge="1" parent="1" source="yOhbxG2t1ZKeJkl7-fQG-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yOhbxG2t1ZKeJkl7-fQG-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="计算种群中个体适应度" vertex="1">
+          <mxGeometry height="30" width="130" x="198" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-17" edge="1" parent="1" source="yOhbxG2t1ZKeJkl7-fQG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yOhbxG2t1ZKeJkl7-fQG-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="选择" vertex="1">
+          <mxGeometry height="30" width="40" x="243" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-18" edge="1" parent="1" source="yOhbxG2t1ZKeJkl7-fQG-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yOhbxG2t1ZKeJkl7-fQG-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="交叉" vertex="1">
+          <mxGeometry height="30" width="40" x="243" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-19" edge="1" parent="1" source="yOhbxG2t1ZKeJkl7-fQG-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yOhbxG2t1ZKeJkl7-fQG-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="突变" vertex="1">
+          <mxGeometry height="30" width="40" x="243" y="340" as="geometry" />
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-20" edge="1" parent="1" source="yOhbxG2t1ZKeJkl7-fQG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yOhbxG2t1ZKeJkl7-fQG-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="计算种群中个体适应度" vertex="1">
+          <mxGeometry height="30" width="130" x="198" y="400" as="geometry" />
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-21" edge="1" parent="1" source="yOhbxG2t1ZKeJkl7-fQG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yOhbxG2t1ZKeJkl7-fQG-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-23" connectable="0" parent="yOhbxG2t1ZKeJkl7-fQG-21" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="是" vertex="1">
+          <mxGeometry relative="1" x="-0.4458" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-24" edge="1" parent="1" source="yOhbxG2t1ZKeJkl7-fQG-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" target="yOhbxG2t1ZKeJkl7-fQG-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="350" y="490" />
+              <mxPoint x="350" y="255.06" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-25" connectable="0" parent="yOhbxG2t1ZKeJkl7-fQG-24" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="否" vertex="1">
+          <mxGeometry relative="1" x="-0.8768" y="-1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-11" parent="1" style="rhombus;whiteSpace=wrap;html=1;shapeInside=1;" value="满足终止条件" vertex="1">
+          <mxGeometry height="60" width="80" x="223" y="460" as="geometry" />
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-22" edge="1" parent="1" source="yOhbxG2t1ZKeJkl7-fQG-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="yOhbxG2t1ZKeJkl7-fQG-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="选择适应度最高的个体" vertex="1">
+          <mxGeometry height="30" width="130" x="198" y="550" as="geometry" />
+        </mxCell>
+        <mxCell id="yOhbxG2t1ZKeJkl7-fQG-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="结束" vertex="1">
+          <mxGeometry height="30" width="40" x="243" y="600" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
