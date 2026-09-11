@@ -19,7 +19,7 @@
         <mxCell id="bGyWf0DpqmAh9KsdWizv-5" edge="1" parent="1" source="bGyWf0DpqmAh9KsdWizv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bGyWf0DpqmAh9KsdWizv-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bGyWf0DpqmAh9KsdWizv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="分布检测算法介绍" vertex="1">
+        <mxCell id="bGyWf0DpqmAh9KsdWizv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="分步检测算法介绍" vertex="1">
           <mxGeometry height="60" width="140" x="344" y="415" as="geometry" />
         </mxCell>
         <mxCell id="bGyWf0DpqmAh9KsdWizv-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="算法性能介绍（准确度、精确度）" vertex="1">
