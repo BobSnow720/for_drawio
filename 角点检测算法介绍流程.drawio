@@ -25,7 +25,7 @@
         <mxCell id="bGyWf0DpqmAh9KsdWizv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="分步检测算法介绍" vertex="1">
           <mxGeometry height="60" width="140" x="450" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="bGyWf0DpqmAh9KsdWizv-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="算法性能介绍（准确度、精确度）" vertex="1">
+        <mxCell id="bGyWf0DpqmAh9KsdWizv-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="算法性能介绍（准确度、精确度）、算法性能对比" vertex="1">
           <mxGeometry height="60" width="140" x="344" y="525" as="geometry" />
         </mxCell>
       </root>
