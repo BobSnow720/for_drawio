@@ -1,26 +1,29 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="jrr9CwRUN3eEph6tOcH8">
-    <mxGraphModel dx="1336" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1113" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="bGyWf0DpqmAh9KsdWizv-3" edge="1" parent="1" source="tkTovSaGZBxig0tdG494-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="tkTovSaGZBxig0tdG494-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="SPQGMGNjk1p4HXWm6-An-4" edge="1" parent="1" source="tkTovSaGZBxig0tdG494-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bGyWf0DpqmAh9KsdWizv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="tkTovSaGZBxig0tdG494-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="交代技术背景、开发需求" vertex="1">
           <mxGeometry height="60" width="140" x="344" y="185" as="geometry" />
         </mxCell>
-        <mxCell id="bGyWf0DpqmAh9KsdWizv-4" edge="1" parent="1" source="tkTovSaGZBxig0tdG494-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" target="bGyWf0DpqmAh9KsdWizv-1">
+        <mxCell id="SPQGMGNjk1p4HXWm6-An-3" edge="1" parent="1" source="tkTovSaGZBxig0tdG494-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bGyWf0DpqmAh9KsdWizv-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tkTovSaGZBxig0tdG494-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="比较传统检测、单分割检测、单pose识别" vertex="1">
-          <mxGeometry height="60" width="140" x="344" y="295" as="geometry" />
+          <mxGeometry height="60" width="140" x="220" y="330" as="geometry" />
         </mxCell>
         <mxCell id="bGyWf0DpqmAh9KsdWizv-5" edge="1" parent="1" source="bGyWf0DpqmAh9KsdWizv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bGyWf0DpqmAh9KsdWizv-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bGyWf0DpqmAh9KsdWizv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="分步检测算法介绍" vertex="1">
-          <mxGeometry height="60" width="140" x="344" y="415" as="geometry" />
+          <mxGeometry height="60" width="140" x="450" y="330" as="geometry" />
         </mxCell>
         <mxCell id="bGyWf0DpqmAh9KsdWizv-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="算法性能介绍（准确度、精确度）" vertex="1">
           <mxGeometry height="60" width="140" x="344" y="525" as="geometry" />
