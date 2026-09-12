@@ -17,13 +17,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tkTovSaGZBxig0tdG494-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="比较传统检测、单分割检测、单pose识别" vertex="1">
-          <mxGeometry height="60" width="140" x="220" y="330" as="geometry" />
+          <mxGeometry height="60" width="140" x="230" y="330" as="geometry" />
         </mxCell>
         <mxCell id="bGyWf0DpqmAh9KsdWizv-5" edge="1" parent="1" source="bGyWf0DpqmAh9KsdWizv-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="bGyWf0DpqmAh9KsdWizv-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bGyWf0DpqmAh9KsdWizv-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="分步检测算法介绍" vertex="1">
-          <mxGeometry height="60" width="140" x="450" y="330" as="geometry" />
+          <mxGeometry height="60" width="140" x="470" y="330" as="geometry" />
         </mxCell>
         <mxCell id="bGyWf0DpqmAh9KsdWizv-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="算法性能介绍（准确度、精确度）、算法性能对比" vertex="1">
           <mxGeometry height="60" width="140" x="344" y="525" as="geometry" />
